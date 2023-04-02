@@ -1,5 +1,5 @@
 <h1> osTicket Lifecycle </h1>
-In this lab ercise we explore tickets, SLA, and ticket triage.
+In this lab exercise we explore tickets, SLA, and ticket triage.
 <br></br>
 
 <p align="center">
@@ -14,4 +14,12 @@ In this lab ercise we explore tickets, SLA, and ticket triage.
 
 <h2> Ticket Lifecycle </h2>
 
-- Insert screenshots here
+1. Navigate to the localhost Support Center. Copy link from installation files.  You can find the link in the installation files. Open a New Ticket.
+<p align="center">
+<img src="https://i.imgur.com/N45pcwx.png" height="50%" width="50%" alt="Opening a New Ticket."/>
+</p>
+
+2. Create an example ticket for a "Business Critical Outage".
+<p align="center">
+<img src="https://i.imgur.com/PQOO6Yp.png" height="50%" width="50%" alt="Creating a Business Critical Outage ticket."/>
+</p>
