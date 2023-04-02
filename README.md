@@ -41,17 +41,17 @@ In this lab exercise we explore tickets, SLA, and ticket triage.
 
 6. Log in to osTicket as support worker Jane Doe. Select the "Mobile Banking Down" ticket. 
 <p align="center">
-Limg src="https://i.imgur.com/0S48yG0.png" height="50%" width="50%" alt="Selecting a ticket to work."/>
+<img src="https://i.imgur.com/0S48yG0.png" height="50%" width="50%" alt="Selecting a ticket to work."/>
 </p>
 
 7. Update the Priority of the ticket based on the severity of the issue. 
 <p align="center">
-<img src="https://i.imgur.com/UvUBRR8.png" height="50% width="50% alt="Updating ticket priority."/>
+<img src="https://i.imgur.com/UvUBRR8.png" height="50%" width="50%" alt="Updating ticket priority."/>
 </p>
 
 8. Reassign the ticket to the Level II Support Team. 
 <p align="center">
-<img src="https://i.imgur.com/jkMaj08.png" height="50%" width="50%" alt="Reassigning ticket./>
+<img src="https://i.imgur.com/jkMaj08.png" height="50%" width="50%" alt="Reassigning ticket."/>
 </p>
 
 9. Update the SLA to Sev-A.
@@ -79,13 +79,13 @@ Limg src="https://i.imgur.com/0S48yG0.png" height="50%" width="50%" alt="Selecti
 <img src="https://i.imgur.com/aOkc54P.png" height="50%" width="50%" alt="Closing the ticket."/>
 </p>
 
-14. Go to Open tickets and select the "Adobe Reader not Working" ticket. 
+14. Go to "Open" and select the "Adobe Reader not Working" ticket. 
 <p align="center">
 <img src="https://i.imgur.com/MekIil9.png" height="50%" width="50%" alt="Selecting a new ticket to work."/>
 </p>
 
-15. Update the Priority of the itcket based on the severity fo the issue. 
-< p align="center">
+15. Update the Priority of the itcket based on the severity of the issue. 
+<p align="center">
 <img src="https://i.imgur.com/cnYL1zR.png" height="50%" width="50%" alt="Updating ticket priority."/>
 </p>
 
@@ -104,7 +104,50 @@ Limg src="https://i.imgur.com/0S48yG0.png" height="50%" width="50%" alt="Selecti
 <img src="https://i.imgur.com/lV40E2x.png" height="50%" width="50%" alt="Responding to the user."/>
 </p>
 
-19. Go to Open ticket
+19. Go to "Open" and select the "Hardware refresh" ticket. 
+<p align="center">
+<img src="https://i.imgur.com/xOYjr0g.png" height="50%" width="50%" alt="Selecting a new ticket to work."/>
+</p>
+
+20. Update the Priority of the ticket based on the severity of the issue.
+<p align="center">
+<img src="https://i.imgur.com/UQYwxLB.png" height="50%" width="50%" alt="Updating ticket priority."/>
+</p>
+
+21. Assign the ticket to worker Jane Doe. 
+<p align="center">
+<img src="https://i.imgur.com/TbY5JBW.png" height="50%" width="50%" alt="Assigning the ticket."/>
+</p>
+
+22. Update the SLA to Sev-C.
+<p align="center">
+<img src="https://i.imgur.com/nBc7CQ9.png" height="50%" width="50%" alt="Updating the SLA of the ticket."/>
+</p>
+
+23. Respond to the user letting them know the status of the issue. 
+<p align="center">
+<img src="https://i.imgur.com/h3RDpD6.png" height="50%" width="50%" alt="Responding to the user."/>
+</p>
+
+24. Log in to osTicket as worker John Doe to close the ticket assigned earlier. Select the "Adobe Reader not working" ticket.
+<p align="center">
+<img src="https://i.imgur.com/Zy2Q9zT.png" height="50%" width="50%" alt="Selecting a new ticket to work."/>
+
+25. Respond to the user letting them know the status of the issue. 
+<p align="center">
+<img src="https://i.imgur.com/5bdLEQK.png" height="50%" width="50%" alt="Responding to the user."/>
+</p>
+
+26. Log in to osTicket as the default user. Change John Doe's access to "Expanded Access" so they can close tickets.
+<p align="center">
+<img src="https://i.imgur.com/3Yq2Fbu.png" height="50%" width="50%" alt="Changing worker access level."/>
+</p>
+
+27. Log in to osTicket as John Doe. Select the ticket assigned to that worker. Respond to the user again, and close the ticket. 
+<p align="center">
+<img src="https://i.imgur.com/lwwoQO9.png" height="50%" width="50%" alt="Responding to the user and closing the ticket."/>
+</p>
+
 
 
 
